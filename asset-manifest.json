@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Weather-app/static/css/main.b31d81a0.css",
+    "main.js": "/Weather-app/static/js/main.53c81408.js",
+    "static/js/787.d9312eb8.chunk.js": "/Weather-app/static/js/787.d9312eb8.chunk.js",
+    "static/media/bg.jpg": "/Weather-app/static/media/bg.f813b402edb9a111837c.jpg",
+    "static/media/sun-svgrepo-com.svg": "/Weather-app/static/media/sun-svgrepo-com.2f6b0f3a35634e0e21bf4b28531bd92d.svg",
+    "static/media/eclipse-svgrepo-com.svg": "/Weather-app/static/media/eclipse-svgrepo-com.1c65e756e2d4a3755db81f70b7b119f9.svg",
+    "static/media/snowflake-svgrepo-com.svg": "/Weather-app/static/media/snowflake-svgrepo-com.aec4dfec3e9ae07d2bb11464722e2474.svg",
+    "static/media/cloudy-svgrepo-com.svg": "/Weather-app/static/media/cloudy-svgrepo-com.4651aa9522c925992f4b04ea74a186a3.svg",
+    "static/media/cloudy.svg": "/Weather-app/static/media/cloudy.f3be0e3410148f89b8b6f686318ac256.svg",
+    "index.html": "/Weather-app/index.html",
+    "main.b31d81a0.css.map": "/Weather-app/static/css/main.b31d81a0.css.map",
+    "main.53c81408.js.map": "/Weather-app/static/js/main.53c81408.js.map",
+    "787.d9312eb8.chunk.js.map": "/Weather-app/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b31d81a0.css",
+    "static/js/main.53c81408.js"
+  ]
+}
