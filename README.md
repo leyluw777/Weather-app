@@ -1,5 +1,6 @@
 # Weather-app
-
+ 
+***Demo version of website:*** https://leyluw777.github.io/Weather-app/
 
 ## Brief description
 This is the application, written in React, which shows the current weather in different cities. The aim of creating this application is demonstration of React functionality
